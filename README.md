@@ -2,12 +2,12 @@
 
 ## Description
 
-This repository contains the code for the i-Sanitise tunnel solution to the COVID-19, developed by [Process Solutions Automation (PSA)](https://www.p-s-a.co.za/index.html). The code is written for application on Arduino boards. We made use of the Arduino Uno board. Wiring diagrams for the project will soon be included in this repository.
+This repository contains the code for the i-Sanitise tunnel solution to the COVID-19, developed by [Process Solutions Automation (PSA)](https://www.p-s-a.co.za/index.html). The code is written for application on an Arduino Uno boards. Wiring diagrams for the project will soon be included in this repository.
 
 
 
 ## Material Requirements
-The material required is as follows:
+The material required for the automation project is as follows:
 
 
  - Arduino Uno
@@ -26,27 +26,13 @@ The material required is as follows:
 
 
 
-There are currently two models of the i-Sanitise tunnel. The main difference being the positioning of the PIR sensor. For model-1 the PIR sensor is placed in the middle of the tunnel, by the spray valves. For model-2 the PIR sensor is placed at the tunnel entrance.
+There are currently two models of the i-Sanitise tunnel. The main difference being the positioning of the PIR sensor. Model-1 places the PIR sensor in the middle of the tunnel, by the spray valves. Whereas the PIR sensor is placed at the tunnel entrance for model-2.
 
 ## Final Project
 
-Car
+A few photos of the final product can be viewed below.
 
-![car](./images/car.png "car")
-
-front
-
-![front](./images/front.png "front")
-
-Side
-
-![side](./images/side.png "side")
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![1](./images/car.png "car")  |  ![2](./images/side.png "side")
-
-Syntax                            | Description | Test Text     
+PSA i-Sanitise                            | Side View | Front View     
 :---                              |    :----:   |          ---:
 ![5](./images/car.png "car")      | ![6](./images/side.png "side")       | ![7](./images/front.png "front")
 
