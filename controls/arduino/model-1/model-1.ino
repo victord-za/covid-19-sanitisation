@@ -8,9 +8,8 @@ Implemented on an Arduino Uno board.
 A script to operate the PSA i-Sanitise Tunnel. An PIR sensor is placed by the tunnel spray point.
 When the PIR sensor has not been activated, a green LED light indicates clients may walk through 
 the tunnel. Once the PIR sensor is activated a delay timer is activated, the green light is 
-switched off and the red light switched on. The solenoid is also activated in a pulse sequence 
-(on-off-on-off-on-off). Once the sequence is complete, the red light is switched off and the green
-light switched on, indicating the next client may walk through.
+switched off and the red light switched on. The solenoid is also activated in a single pulse. Once the pulse is
+complete, the red light is switched off and the green light switched on, indicating the next client may walk through.
 
 There is also a low level sensor on the pressure vessel of the pump. Once the level drops below the low level switch,
 the current running sequence is completed as normal. After this sequence, the red light starts to flash and the solenoid is 
