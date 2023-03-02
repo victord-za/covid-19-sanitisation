@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code for the i-Sanitise tunnel solution to the COVID-19, developed by [Process Solutions Automation (PSA)](https://www.p-s-a.co.za/index.html). The code is written for application on an Arduino Uno board or Siemens LOGO! 8.
+This repository contains the code for the i-Sanitise tunnel solution to the COVID-19, developed by [Process Solutions Automation (PSA)](https://www.p-s-a.co.za/index.html). The project was discontinued before the planned computer vision additions. The code is written for application on an Arduino Uno board or Siemens LOGO! 8.
 
 ## Material Requirements
 The material required for the automation project is as follows:
